@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.badvision.hint">
+    <module_version install_time="1376234122941" last="true" origin="installer" specification_version="1.0">
+        <file crc="1531174266" name="config/Modules/org-badvision-hint.xml"/>
+        <file crc="13660177" name="modules/org-badvision-hint.jar"/>
+    </module_version>
+</module>
