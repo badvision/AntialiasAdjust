@@ -5,7 +5,7 @@ This is a Netbeans 7 plugin that provides full control over rendering hints.  I 
 
 Installing
 ----------
-Grab the NBM module file and import from the plugins manager.  After activated, you do not need to restart.  Go to the preferences > Advanced screen and look for the Antialias tab.  Adjust to your liking.  Adjustments are updated as you make them (so the apply/ok buttons only save settings)  Since the font hints are only used when redrawing you will need to mouse-over or click on UI elements in order to really see the effect of your changes.
+Grab the jar file (https://github.com/badvision/AntialiasAdjust/raw/master/org-badvision-hint.jar) and import from the plugins manager.  After activated, you do not need to restart.  Go to the preferences > Advanced screen and look for the Antialias tab.  Adjust to your liking.  Adjustments are updated as you make them (so the apply/ok buttons only save settings)  Since the font hints are only used when redrawing you will need to mouse-over or click on UI elements in order to really see the effect of your changes.
 
 Compiling
 ---------
