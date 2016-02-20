@@ -1,6 +1,8 @@
 AntialiasAdjust
 ===============
 
+*Note*: This module was put together to solve a problem that doesn't exist anymore.  Older versions of Oracle JRE did not properly support retina (high DPI) displays, but that has been rectified for quite some time now.  As such this small project is not being maintained but kept here as a reference for building small add-on modules to NetBeans.
+
 This is a Netbeans 7 plugin that provides full control over rendering hints.  I wrote this because after using Netbeans for years on Ubuntu and switching to Mac OSX, everything looked horribly fuzzy.  I hope this plugin helps you out!
 
 Installing
